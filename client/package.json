@@ -1,0 +1,19 @@
+{
+  "name": "jweather",
+  "version": "1.0.0",
+  "main": "client/index.js",
+  "scripts": {
+  "start": "vite",
+  "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "firebase": "^11.4.0",
+    "react-dom": "^19.0.0",
+    "vite": "^6.2.1"
+  },
+  "description": ""
+}
